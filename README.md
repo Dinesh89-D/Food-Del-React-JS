@@ -97,6 +97,9 @@ PORT=5000
 🚀 Future Enhancements
 
 ✅ Payment Integration (Stripe, Razorpay, etc.)
+
 ✅ Live Order Tracking using WebSockets
+
 ✅ Admin Dashboard for managing users and orders
+
 ✅ Push Notifications for order status updates
